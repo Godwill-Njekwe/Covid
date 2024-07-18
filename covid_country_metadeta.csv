@@ -1,0 +1,10 @@
+country;continent;stringency_index;population_density;median_age;aged_65_older;aged_70_older;gdp_per_capita;extreme_poverty;cardiovasc_death_rate;diabetes_prevalence;female_smokers;male_smokers;handwashing_facilities;hospital_beds_per_thousand;life_expectancy;human_development_index
+Benin;Africa;0;99.11;18.8;3.244;1.942;2064.236;49.6;235.848;0.99;0.6;12.3;11.035;0.5;61.77;0.545
+Congo;Africa;0;15.405;19;3.402;2.063;4881.406;37;344.094;7.2;1.7;52.3;47.964;;64.57;0.574
+Gabon;Africa;0;7.859;23.1;4.45;2.976;16562.413;3.4;259.967;7.2;;;;6.3;66.47;0.703
+Ireland;Europe;0;69.874;38.7;13.928;8.678;67335.293;0.2;126.459;3.28;23;25.7;;2.96;82.3;0.955
+Oman;Asia;0;14.98;30.7;2.355;1.53;37960.709;;266.342;12.61;0.5;15.6;97.4;1.6;77.86;0.813
+South Korea;Asia;0;527.967;43.4;13.914;8.622;35938.374;0.2;85.998;6.8;6.2;40.9;;12.27;83.03;0.916
+Sudan;Africa;0;23.258;19.7;3.548;2.034;4466.507;;431.388;15.67;;;23.437;0.8;65.31;0.51
+Uruguay;South America;0;19.751;35.6;14.655;10.361;20551.409;0.1;160.708;6.93;14;19.9;;2.8;77.91;0.817
+Zimbabwe;Africa;0;42.729;19.6;2.822;1.882;1899.775;21.4;307.846;1.82;1.6;30.7;36.791;1.7;61.49;0.571
